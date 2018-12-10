@@ -1,0 +1,28 @@
+body {
+  background: #2B3843;
+  color: #EBEBEB;
+  font-family: roboto;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+h5 {
+  color: #4D4D4D;
+}
+
+a {
+  text-decoration: none;
+  color: #4D4D4D;
+}
+
+li {
+  font-size: 1.4rem;
+}
+
+input {
+  color: #EEF4ED;
+  font-family: roboto;
+  letter-spacing: 1.1px;
+}
